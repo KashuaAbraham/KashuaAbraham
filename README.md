@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @KashuaAbraham
-- 👀 I’m interested in DevOps engineering
-- 🌱 I’m currently learning Docker 
-- 💞️ I’m looking to collaborate on DevOps tools 
-- 📫 How to reach me https://twitter.com/AbrahamKashua
+I am a highly motivated and results-oriented individual with a strong interest in DevOps engineering. I am currently enrolled in a remote apprenticeship program at Public Gives, where I am gaining valuable hands-on experience with industry-standard DevOps tools and methodologies.
 
+Technical Skills:
 
-<!---
-KashuaAbraham/KashuaAbraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Jenkins
+GitHib
+Docker
+Terraform
+I am eager to:
+
+Collaborate with experienced DevOps professionals to further develop my skills.
+Contribute to a collaborative and fast-paced DevOps environment.
+Secure a DevOps engineering role where I can leverage my existing knowledge and continuously learn new technologies.
+Open to Network and Collaborate
+
+I am always interested in connecting with other DevOps professionals and learning from their experiences. Feel free to reach out and connect!
