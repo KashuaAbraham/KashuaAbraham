@@ -1,4 +1,4 @@
-I am a highly motivated and results-oriented individual with a strong interest in DevOps engineering. I am currently enrolled in a remote apprenticeship program at Public Gives, where I am gaining valuable hands-on experience with industry-standard DevOps tools and methodologies.
+I am a highly motivated and results-oriented individual with a strong interest in DevOps engineering. I am currently enrolled in a remote apprenticeship program @PublicGives, where I am gaining valuable hands-on experience with industry-standard DevOps tools and methodologies.
 
 Technical Skills:
 
