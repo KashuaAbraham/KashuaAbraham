@@ -3,7 +3,7 @@ I am a highly motivated and results-oriented individual with a strong interest i
 Technical Skills:
 
 Jenkins
-GitHib
+GitHub
 Docker
 Terraform
 I am eager to:
