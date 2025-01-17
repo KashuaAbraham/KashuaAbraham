@@ -5,7 +5,8 @@ Technical Skills:
 Jenkins,
 GitHub,
 Docker,
-Terraform
+Terraform,
+Kubernetes
 I am eager to:
 
 Collaborate with experienced DevOps professionals to further develop my skills.
